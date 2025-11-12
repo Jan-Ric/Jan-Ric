@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Jan-Ric/Jan-Ric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I’m a recent ECE graduate and aspiring licensed engineer
+
+🤖 I’m passionate about AI, Machine Learning, and Data Science
+
+💡 I’m on a journey to become an AI/ML Engineer
+
+🌱 I’m currently learning Python, AI model development, and data analytics
+
+📫 How to reach me: janrichogat@gmail.com
+
+⚡ Fun fact: I’m excited to grow and connect with amazing developers, engineers and scientists!
+
