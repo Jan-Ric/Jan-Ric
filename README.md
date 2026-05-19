@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 💡 I’m on a journey to land a tech job in AI and Data Science Industry
 
-🌱 I’m currently learning Python, Data analytics and building systems
+🌱 I’m currently learning Data and AI Engineering, as well as building personal Embedded Systems
 
 📫 How to reach me: janrichogat@gmail.com
 
