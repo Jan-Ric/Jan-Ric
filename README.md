@@ -2,13 +2,13 @@
 
 Here are some ideas to get you started:
 
-🎓 I’m a recent ECE graduate and aspiring licensed engineer
+🎓 I’m a newly licensed electronics engineer
 
-🤖 I’m passionate about AI, Machine Learning, and Data Science
+🤖 I’m passionate about AI and Automation, Embedded Systems and System Integration
 
-💡 I’m on a journey to become an AI/ML Engineer
+💡 I’m on a journey to land a tech job in AI and Data Science Industry
 
-🌱 I’m currently learning Python, AI model development, and data analytics
+🌱 I’m currently learning Python, Data analytics and building systems
 
 📫 How to reach me: janrichogat@gmail.com
 
