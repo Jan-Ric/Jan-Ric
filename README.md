@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 🎓 I’m a newly licensed electronics engineer
 
 🤖 I’m passionate about AI and Automation and Embedded Systems
