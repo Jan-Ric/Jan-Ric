@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 🎓 I’m a newly licensed electronics engineer
 
-🤖 I’m passionate about AI and Automation, Embedded Systems and System Integration
+🤖 I’m passionate about AI and Automation and Embedded Systems
 
 💡 I’m on a journey to land a tech job in AI and Data Science Industry
 
