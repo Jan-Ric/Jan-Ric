@@ -2,13 +2,12 @@
 
 - I’m a newly licensed electronics engineer and electronics technician
 
-- I’m passionate about Big Data, AI Automation, Robotics and Embedded Systems
+- Active member/builer of Data Engineering Pilipinas community <3
 
-- I’m on a journey to land a tech job in Data Engineering and Analytics
+- Currently building a data engineering end-to-end project --> [Repository]([https://github.com/Jan-Ric/dep-data-engineering-jan-ric])
 
-- Building a data engineering end-to-end project --> (Repo:https://github.com/Jan-Ric/dep-data-engineering-jan-ric)
+- I’m on a journey to land a tech job in Data Engineering and Analytics! I'd love the opportunity to connect with y'all! :)
 
-- How to reach me: janrichogat@gmail.com
+- Here are my Research and Academic Projects: [Projects]([https://github.com/Jan-Ric/Research-and-Projects])
 
-- Fun fact: I’m excited to grow and connect with developers, engineers and scientists!
-
+- How to reach me: [Gmail]([janrichogat@gmail.com]) | [LinkedIn]([https://www.linkedin.com/in/janrichogat/])
