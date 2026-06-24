@@ -10,4 +10,4 @@
 
 - Here are my Research and Academic Projects: [Projects]([https://github.com/Jan-Ric/Research-and-Projects])
 
-- How to reach me: [Gmail]([janrichogat@gmail.com]) | [LinkedIn]([https://www.linkedin.com/in/janrichogat/])
+- How to reach me --> janrichogat@gmail.com | https://www.linkedin.com/in/janrichogat/
