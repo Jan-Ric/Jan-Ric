@@ -6,7 +6,7 @@
 
 - I’m on a journey to land a tech job in Data Engineering and Analytics
 
-- I’m currently learning Data and AI Engineering, as well as building personal End-to-End Systems
+- Building a data engineering end-to-end project --> (Repo:https://github.com/Jan-Ric/dep-data-engineering-jan-ric)
 
 - How to reach me: janrichogat@gmail.com
 
