@@ -6,7 +6,9 @@
 
 - Currently building a data engineering end-to-end project --> [Repository](https://github.com/Jan-Ric/dep-data-engineering-jan-ric)
 
-- I’m on a journey to land a tech job in Data Engineering and Analytics! I'd love the opportunity to connect with y'all!
+- I’m on a journey to land a tech job in Data Engineering and Analytics, has a strong interest working with energy datasets! 
+
+- I'd love the opportunity to connect with y'all!
 
 - Here are my Research and Academic Projects: [Projects](https://github.com/Jan-Ric/Research-and-Projects)
 
