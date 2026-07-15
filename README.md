@@ -12,4 +12,4 @@
 
 - Here are my Research and Academic Projects: [Projects](https://github.com/Jan-Ric/Research-and-Projects)
 
-- How to reach me --> [Gmail](mailto:janrichogat@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janrichogat/)
+- How to reach me --> [Gmail](mailto:janrichogat@gmail.com) | [LinkedIn](https://www.linkedin.com/in/janrichogat/) | [Discord](https://discordapp.com/users/577119678082580490)
